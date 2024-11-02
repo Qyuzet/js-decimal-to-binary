@@ -1,6 +1,7 @@
 # Decimal to Binary Converter
 
-This is a simple web-based application that converts decimal numbers to binary. It provides an interactive UI to input a decimal number and see the binary equivalent displayed with a call stack animation that explains the recursive conversion process.
+This is a simple web-based application that converts decimal numbers to binary. It provides an interactive UI to input a decimal number and see the binary equivalent displayed with a call stack animation that explains the recursive conversion process. [TRY NOW!](https://qyuzet.github.io/js-decimal-to-binary/)
+
 
 ## Table of Contents
 
@@ -20,7 +21,7 @@ This is a simple web-based application that converts decimal numbers to binary. 
   
 ## Demo
 
-A live version of this application can be found [here](#).
+A live version of this application can be found [here](https://qyuzet.github.io/js-decimal-to-binary/).
 
 ## Usage
 
